@@ -1,0 +1,98 @@
+index.html                            ==> https://www.sparkinnovations.com/
+about.html                            ==> https://www.sparkinnovations.com/about/
+contact-us.html                       ==> https://www.sparkinnovations.com/contact-us/
+genie_mecanique.html                  ==> https://www.sparkinnovations.com/mechanical-engineering-consulting-firm/
+Processus_Dev_Produits.html           ==> https://www.sparkinnovations.com/services/product-development-process/
+product-design.html                   ==> https://www.sparkinnovations.com/product-design/
+services.html                         ==> https://www.sparkinnovations.com/services/
+industrial-design.html                ==> https://www.sparkinnovations.com/industrial-design/
+defintion_design_industriel.html      ==> https://www.sparkinnovations.com/what-is-industrial-design/
+for-innovators.html                   ==> https://www.sparkinnovations.com/services/for-innovators/
+innovation-process.html               ==> https://www.sparkinnovations.com/innovation-process/
+lepage-packing-tape.html              ==> https://www.sparkinnovations.com/project/lepage-packing-tape/
+conception-pour-les-entreprises.html  ==> https://www.sparkinnovations.com/services/design-for-corporations/
+chaise-de-voyage.html                 ==> https://www.sparkinnovations.com/project/promen-aid-travel-chair/
+hilo-veilleuse.html                   ==> https://www.sparkinnovations.com/project/hilo-nightlight/
+casque_hiver.html                     ==> https://www.sparkinnovations.com/project/scotts-roam-winter-helmet/
+brevets-toronto.html                  ==> https://www.sparkinnovations.com/patents-toronto/
+Services_brevets.html                 ==> https://www.sparkinnovations.com/services/patent_services/
+ingénierie_electronique.html          ==> http://www.sparkinnovations.com/electronic-engineering/
+provisoire_Demande_brevet.html        ==> https://www.sparkinnovations.com/provisional-vs-utility-patent-application/
+sourcing-liaison-logistique.html      ==> http://www.sparkinnovations.com/services/sourcing-liaison-logistics/
+non_classe.html                       ==> https://www.sparkinnovations.com/category/uncategorized/
+Top_6_produits_marketing.html         ==> https://www.sparkinnovations.com/top-6-ways-drone-can-help-elevate-product-design-marketing/
+petal_clean_vos_déchets.html          ==> https://www.sparkinnovations.com/petal-clean-a-cool-new-way-to-deal-with-your-garbage/
+comment_concevoir_produit.html        ==> https://www.sparkinnovations.com/step-by-step-how-to-design-a-product-with-images/
+aide-brevet.html                      ==> https://www.sparkinnovations.com/patent-help/
+startup-help.html                     ==> https://www.sparkinnovations.com/category/startup-help/
+prototyping.html                      ==> https://www.sparkinnovations.com/category/prototyping/
+reduire_stress_lors_création_startup.html ==> https://www.sparkinnovations.com/how-to-reduce-stress-when-creating-a-startup/
+guide_réussie_startup_2023.html       ==> https://www.sparkinnovations.com/a-complete-guide-to-a-successful-startup-business-expansion-in-2023/
+processus_demarrage_entreprise_électronique.html  ==> https://www.sparkinnovations.com/the-start-up-process-for-an-electronic-business-this-2023/
+3_façons_améliorer_expérience.html     ==>  https://www.sparkinnovations.com/3-ways-to-enhance-your-startups-customer-experience/
+developpement_produits.html            ==> https://www.sparkinnovations.com/category/product-development/
+conception_produits.html               ==> https://www.sparkinnovations.com/category/product-design/
+catégorie_ingénierie_mécanique.html    ==> https://www.sparkinnovations.com/category/mechanical-engineering/
+categorie_design_industriel.html       ==> https://www.sparkinnovations.com/category/industrial-design/
+conception_industrielle_ingénierie.html ==>  https://www.sparkinnovations.com/how-industrial-design-and-engineering-help-bring-ideas-to-life/
+comment_faire_prototype_produit.html   ==> https://www.sparkinnovations.com/how-do-i-make-a-product-prototype/
+prototyping-service.html               ==> https://www.sparkinnovations.com/prototyping-service/
+étapes_construire_prototype.html       ==> https://www.sparkinnovations.com/steps-on-how-to-build-your-prototype/
+réduire_risques_développement_produits.html   ==> https://www.sparkinnovations.com/how-to-reduce-product-development-risks/
+
+
+
+*fox-40-sifflet-électronique.html         https://www.sparkinnovations.com/project/fox-40-electronic-whistle/
+* embout-de-crosse-électronique.html      https://www.sparkinnovations.com/project/electronic-lacrosse-end-cap/
+*casques.html                             https://www.sparkinnovations.com/project/the-venom-helmet/
+*souris_aerienne.html                     https://www.sparkinnovations.com/project/airmouse/
+* accords_non_divulgation.html            https://www.sparkinnovations.com/information/non-disclosure_agreements/
+* Communique_presse.html                    https://www.sparkinnovations.com/category/sparks-clients-press-release/       
+* 3TF_media.html                                  https://www.sparkinnovations.com/category/3TF-media/
+*guide_startup_bon-fournisseur_services.html          https://www.sparkinnovations.com/a-startup-guide-to-finding-the-right-managed-cloud-services-provider/
+*cybersecurity.html      https://www.sparkinnovations.com/why-cybersecurity-is-a-must-in-product-design/
+*brevets.html                 https://www.sparkinnovations.com/category/patents/
+*accord_non_divulgation.html    https://www.sparkinnovations.com/category/non-disclosure-agreement/
+*inventions_nouvelles_idées.html        https://www.sparkinnovations.com/category/inventions-new-ideas/
+*financement_participatif.html                            https://www.sparkinnovations.com/category/crowdfunding/
+*service_impression_3D.html                    https://www.sparkinnovations.com/category/3d-printing-service/
+*camarade_brossage.html        https://www.sparkinnovations.com/project/brushmate/
+*le-instafloss.html         https://www.sparkinnovations.com/project/the-instafloss/
+*Bloc_morsure.html             https://www.sparkinnovations.com/project/bite-block/
+*conception_brosses.html                    https://www.sparkinnovations.com/project/slimline-rechargeable-brush-design-development/
+*conception-brosse-dz3.html           https://www.sparkinnovations.com/project/dz3-brush-design/
+*conception_emballage_produit.html        https://www.sparkinnovations.com/packaging-design-for-your-new-product-idea/
+*dental.html                              https://www.sparkinnovations.com/projects/dental/
+*medical.html                             https://www.sparkinnovations.com/projects/medical/
+*5_etapes_ventes_commerce_électronique.html      https://www.sparkinnovations.com/5-steps-to-generate-ecommerce-sales-from-instagram/
+*service_impression_3D.html      https://www.sparkinnovations.com/3d-printing-service-toronto/
+*découpe_eau_améliore_fabrication.html     https://www.sparkinnovations.com/how-does-waterjet-cutting-enhance-productivity-in-manufacturing/
+*idée_dans_votre_produit_final.html       https://www.sparkinnovations.com/from-an-idea-in-your-head-to-a-final-product/
+*nouveau-produit-design.html         https://www.sparkinnovations.com/unusual-things-you-didnt-know-you-could-make-with-a-multicolor-3d-printer-for-your-next-new-product-design/
+* embauche_ingénieur_électricien.html              https://www.sparkinnovations.com/what-to-consider-when-hiring-an-electrical-engineer/
+*étapes_construire_infrastructure_startup.html    https://www.sparkinnovations.com/7-steps-to-build-a-solid-it-infrastructure-for-your-startup/
+*raccourcis_plus_efficaces_sur_Mac.html   https://www.sparkinnovations.com/7-most-effective-shortcuts-to-use-on-mac/
+*sécurité_amélioration_expérience_utilisateur.html   https://www.sparkinnovations.com/the-importance-of-security-in-user-experience-enhancement-in-product-development/
+*utiliser_tiktok_pour_recherche_conception_produits.html  https://www.sparkinnovations.com/how-to-use-tiktok-for-product-research-and-design/
+*rpa_processus_développement_produits.html  https://www.sparkinnovations.com/how-rpa-can-streamline-the-product-development-process/
+** ventes_marketing.html              ==> https://www.sparkinnovations.com/services/sales-marketing/
+
+*  laser_aidé_développement_produits.html     https://www.sparkinnovations.com/how-laser-helped-product-development/
+* durabilité_importante_dans_conception_produits.html    https://www.sparkinnovations.com/why-is-sustainability-important-in-product-design/
+*conseils_solutions_intelligentes_conception_produit.html     https://www.sparkinnovations.com/tips-to-leverage-smart-solutions-in-logistics-management-for-your-product-design/
+*machine_découpe_laser.html    https://www.sparkinnovations.com/tube-laser-cutting-machine-in-product-design-ultimate-guide/
+* sauvegarde_et_récupération_données.html      https://www.sparkinnovations.com/how-to-perform-a-data-backup-and-recovery-for-your-product-design-files/
+* améliorer_documentation_conception.html     https://www.sparkinnovations.com/improve-design-documentation-with-these-tips-and-tricks/
+*  étapes_conception_produits_entreprises.html       https://www.sparkinnovations.com/the-5-product-design-steps-the-most-successful-companies-employ/
+* découpe_jet_productivité_fabrication.html     https://www.sparkinnovations.com/how-does-waterjet-cutting-enhance-productivity-in-manufacturing/
+* conseils_augmenter_qualité_conception_automobile.html   https://www.sparkinnovations.com/8-tips-to-increase-quality-in-automotive-design/
+*importance_conception_mécanique.html     https://www.sparkinnovations.com/the-importance-of-mechanical-design-and-engineering/
+*guide_sélectionner_motoréducteur_développement_produit.html       https://www.sparkinnovations.com/guide-to-selecting-the-right-gearmotor-during-your-product-development-process/
+*meilleures_embaucher_concepteur_mécanique.html      https://www.sparkinnovations.com/10-best-questions-to-ask-before-you-hire-a-mechanical-designer/
+*besoin_ingénieur_mécanique_conception.html     https://www.sparkinnovations.com/need-a-mechanical-engineer-for-your-product-design/
+* entreprises_design_industriel.html         https://www.sparkinnovations.com/how-ai-is-helping-industrial-design-companies-design-and-innovate/
+*impact_réalité_augmentée_design_industriel.html      https://www.sparkinnovations.com/the-impact-of-augmented-reality-on-industrial-design/
+*conceptions_industrielles_influence_moniteurs.html       https://www.sparkinnovations.com/designing-for-efficiency-industrial-designs-influence-on-fqq-monitors-for-work-environments/
+* évolution_technologies_design_industriel.html     https://www.sparkinnovations.com/evolving-technologies-in-industrial-design/
+*embauche_designer_industriel.html       https://www.sparkinnovations.com/what-to-look-for-when-hiring-an-industrial-designer/
+*impact_conception_industrielle.html       https://www.sparkinnovations.com/the-impact-of-industrial-design-on-user-experience-for-portable-monitors/
